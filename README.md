@@ -60,8 +60,8 @@ function_patentes_Conquistados()
     function_resumo_dos_jogadores()
     {
 
-        console.log("Resumo dos Joagdores:");
-        function_jogafdor_Castiel();
+        console.log("Resumo dos Jogadores:");
+        function_jogador_Castiel();
         function_jogador_Blut();
         
 
